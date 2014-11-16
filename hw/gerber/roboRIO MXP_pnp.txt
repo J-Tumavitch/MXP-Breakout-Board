@@ -1,0 +1,96 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=roboRIO MXP
+*Date=05:48:07
+*CreatedBy=Fritzing 0.9.0b.06.11.da4e
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;53.0665;-56.3327;0;Bottom;DIO 2
+2;;THT;20.0465;-56.3327;0;Bottom;DIO 15
+3;;;32.7464;-8.07282;0;Bottom;Via4
+4;;THT;93.7065;-41.0927;-90;Bottom;PWM 5
+5;;;4.80643;-66.4927;0;Bottom;Hole3
+6;;;86.0864;-51.2527;0;Bottom;Via25
+7;;;25.1264;-66.4927;0;Bottom;Hole5
+8;;;103.866;-2.99282;0;Bottom;Hole1
+9;;THT;93.7065;-36.0127;-90;Bottom;PWM 3
+10;;THT;40.3665;-56.3327;0;Bottom;DIO 7
+11;;THT;37.8265;-56.3327;0;Bottom;DIO 8
+12;;;53.0664;-33.4728;0;Bottom;Via27
+13;;;83.5464;-58.8727;0;Bottom;Via13
+14;;THT;93.7065;-18.2327;-90;Bottom;AO 1
+15;;;12.4264;-51.2527;0;Bottom;Via2
+16;;5 mm [THT];7.34639;-42.9417;180;Bottom;LED1
+17;;THT;22.5865;-56.3327;0;Bottom;DIO 14
+18;;;86.0864;-41.0927;0;Bottom;Via21
+19;;;86.0864;-46.1727;0;Bottom;Via23
+20;;THT;50.5265;-56.3327;0;Bottom;DIO 3
+21;;THT;93.7065;-51.2527;-90;Bottom;PWM 9
+22;;THT;93.7065;-30.9327;-90;Bottom;PWM 1
+23;;;86.0864;-30.9328;0;Bottom;Via17
+24;;;45.4464;-13.1528;0;Bottom;Via6
+25;;;40.3664;-10.6128;0;Bottom;Via5
+26;;THT;93.7065;-43.6327;-90;Bottom;PWM 6
+27;;;86.0864;-43.6327;0;Bottom;Via22
+28;;THT;35.2865;-56.3327;0;Bottom;DIO 9
+29;;THT;58.1465;-56.3327;0;Bottom;DIO 0
+30;;THT;25.1265;-56.3327;0;Bottom;DIO 13
+31;;;86.0864;-48.7127;0;Bottom;Via24
+32;;THT;55.6065;-56.3327;0;Bottom;DIO 1
+33;;THT;30.2065;-56.3327;0;Bottom;DIO 11
+34;;;30.2064;-5.53282;0;Bottom;Via3
+35;;;20.0464;-23.3128;0;Bottom;Via9
+36;;THT;93.7065;-38.5527;-90;Bottom;PWM 4
+37;;;55.6064;-30.9328;0;Bottom;Via26
+38;;THT;73.3865;-56.3327;0;Bottom;AI 1
+39;;THT;93.7065;-33.4727;-90;Bottom;PWM 2
+40;;;86.0864;-36.0128;0;Bottom;Via19
+41;;;86.0864;-38.5528;0;Bottom;Via20
+42;;THT;93.7065;-46.1727;-90;Bottom;PWM 7
+43;;;93.7609;-8.4355;0;Bottom;IMG1
+44;;THT;7.34653;-55.0627;0;Bottom;I2C
+45;;;12.4264;-23.3128;0;Bottom;Via12
+46;;;17.5064;-23.3128;0;Bottom;Via10
+47;;THT;70.8465;-56.3327;0;Bottom;AI 2
+48;;;78.4664;-58.8727;0;Bottom;Via14
+49;;THT;75.9265;-56.3327;0;Bottom;AI 0
+50;;THT;32.7465;-56.3327;0;Bottom;DIO 10
+51;;;14.9664;-53.7927;0;Bottom;Via1
+52;;;58.1464;-28.3928;0;Bottom;Via15
+53;;THT;58.1465;-13.1527;-90;Bottom;Rx/Tx
+54;;;86.0864;-33.4728;0;Bottom;Via18
+55;;;25.1264;-51.2527;0;Bottom;Via34
+56;;THT;47.9865;-56.3327;0;Bottom;DIO 4
+57;;;50.5264;-36.0128;0;Bottom;Via28
+58;;;103.866;-66.4927;0;Bottom;Hole2
+59;;THT;93.7065;-48.7127;-90;Bottom;PWM 8
+60;;THT;42.9065;-56.3327;0;Bottom;DIO 6
+61;;THT;68.3065;-56.3327;0;Bottom;AI 3
+62;;;86.0864;-28.3928;0;Bottom;Via16
+63;;;32.7464;-43.6327;0;Bottom;Via31
+64;330;THT;7.34653;-30.9327;90;Bottom;R1
+65;;;67.4411;-2.63194;0;Bottom;TXT1
+66;;;27.6664;-48.7127;0;Bottom;Via33
+67;;;37.8264;-38.5528;0;Bottom;Via29
+68;;;75.9264;-66.4927;0;Bottom;Hole6
+69;;THT;50.5265;-21.9157;90;Bottom;roboRIO MXP
+70;;THT;93.7065;-20.7727;-90;Bottom;AO 0
+71;;THT;93.7065;-28.3927;-90;Bottom;PWM 0
+72;;;14.9664;-23.3128;0;Bottom;Via11
+73;;THT;7.34653;-15.6927;-90;Bottom;GND
+74;;;4.80643;-2.99282;0;Bottom;Hole4
+75;;;50.5264;-15.6928;0;Bottom;Via7
+76;;THT;27.6665;-56.3327;0;Bottom;DIO 12
+77;;;3.03186;-14.243;-90;Bottom;TXT2
+78;;;30.2064;-46.1727;0;Bottom;Via32
+79;;;35.2864;-41.0927;0;Bottom;Via30
+80;;THT;45.4465;-56.3327;0;Bottom;DIO 5
+81;;;22.5864;-23.3128;0;Bottom;Via8
