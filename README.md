@@ -10,7 +10,7 @@ The Custom Electronics Breakout Board provides an easy to use way to access the 
 
 ### Breakout board
 
-![MXP](resources/roboRIO MXP_pcb.png "The Breakout Board")
+![MXP](doc/img/roboRIO MTX_pcb.png "The Breakout Board")
 
 #### Features
 - Breaks out the roboRIO's "Custom Electronics" (a.k.a. MXP) port
